@@ -5,7 +5,6 @@ import (
 	"back/router"
 
 	"github.com/gin-gonic/gin"
-	_ "gorm.io/driver/sqlite"
 )
 
 func main() {
